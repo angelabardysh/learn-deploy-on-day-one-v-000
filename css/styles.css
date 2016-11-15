@@ -134,6 +134,13 @@ a:visited {
   height: 400px;
 }
 
+#angela-bardysh-cover {
+  background-image: url("http://i.imgur.com/HiEQuoR.jpg")
+}
+
+#angela-bardysh-card {
+  background-image: url("http://i.imgur.com/7c622zm.jpg")
+}
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
